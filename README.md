@@ -70,6 +70,8 @@
  - `src/Infrastructure/DbLogger.Infrastructure.DataAccess` - подключение к БД и конфигурация модели
 
 ##Пример работы
+
+
 Создали искусственное исключение
 ![image](https://github.com/valerchikUwU/DbLogger/assets/99470988/673917d8-7daf-43ca-aa7f-fe27ad6b5bd0)
 
